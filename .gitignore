@@ -1,0 +1,9 @@
+.DS_Store
+.git
+.idea
+.vscode
+config.yml
+
+logs
+server
+nohup.out
